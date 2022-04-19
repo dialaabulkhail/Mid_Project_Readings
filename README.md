@@ -13,7 +13,7 @@ Used to train a model to predict the sentiment in a sentence? Or what if you hav
 Another name for input data is feature, and feature engineering is the process of extracting features from raw data.
 - Not having to deal with feature engineering is good because the process gets harder as the datasets become more complex.
 
-## Neaural networks
+## Neural networks
 It is a system that learns to predict output by:
 1. taking input data
 2. make a prediction
