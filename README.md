@@ -98,6 +98,19 @@ timeit module can be used to calculate the delay between each two cars.
 in our project, we will take a fixed time from specific data and compare it with the result of timeit library. 
 
 [Timeit()](https://docs.python.org/3/library/timeit.html)
+
+## Time - sleep()
+Python time sleep function is used to add delay in the execution of a program. We can use python sleep function to halt the execution of the program for given time in seconds. Notice that python time sleep function actually stops the execution of current thread only, not the whole program.
+
+```
+import time
+
+print("Before the sleep statement")
+time.sleep(5)
+print("After the sleep statement")
+```
+If you run the above code then you will see that the second print executes after 5 seconds. So you can make delay in your code as necessary.
+[Sleep](https://www.journaldev.com/15797/python-time-sleep#:~:text=Python%20time%20sleep%20function%20is,only%2C%20not%20the%20whole%20program.)
 ____
 ## Sumolib 
 sumolib is a set of python modules for working with sumo networks, simulation output and other simulation artifacts.
@@ -115,4 +128,12 @@ else:
 > Project
 we can use this library to design a simulation of the traffic AI System
 _____
+## AI Traffic ligths control system 
+The basic idea around this topic is to control the opening and closing time of traffic lights according to number of vehicles passing through each one.
+>Project
+we are going to deal with a T-section street road with 5 traffic lights, input mainly will be vehicles volume (number of cars) and the output will be the score of numebr of cars passing through a specific period of time**.
+
+[Example](https://www.youtube.com/watch?v=CQu4wFLC79U&t=177s&ab_channel=MichaelRechtin)
+[Traffic detection using tensorflow](https://builders.intel.com/docs/aibuilders/traffic-light-detection-using-the-tensorflow-object-detection-api.pdf)
+
 
