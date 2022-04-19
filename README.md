@@ -45,6 +45,8 @@ tensorflow was mainly used for detecting ard recognising (like traffic lights/pe
 
 [Road safety-Tensorflow](https://www.datasciencecentral.com/how-tensorflow-is-helping-in-maintaining-road-safety/)
 
+[Tensorflow tutorial](https://www.youtube.com/watch?v=6_2hzRopPbQ&ab_channel=NicholasRenotte)
+
 - Keras is used as a high-level API to build and train models in TensorFlow.  [Modules](https://www.tensorflow.org/api_docs/python/tf/keras)
 
 [Quick start Keras](https://www.tensorflow.org/tutorials/keras/classification)
