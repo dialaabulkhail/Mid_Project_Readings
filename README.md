@@ -53,11 +53,19 @@ tensorflow was mainly used for detecting ard recognising (like traffic lights/pe
 
 [Quick start](https://www.tensorflow.org/tutorials/quickstart/beginner)
 
-Examples on tensorflow -> 
 
-![Capture](https://user-images.githubusercontent.com/97671741/164194795-a7ffa697-ef0a-4b09-b1e8-428e3c277092.PNG)
+- [0:00:00](https://www.youtube.com/watch?v=6g4O5UOH304&t=0s) What is a Neural Network?
+- [0:26:34](https://www.youtube.com/watch?v=6g4O5UOH304&t=1594s) How to load & look at data
+- [0:39:38](https://www.youtube.com/watch?v=6g4O5UOH304&t=2378s) How to create a model
+- [0:56:48](https://www.youtube.com/watch?v=6g4O5UOH304&t=3408s) How to use the model to make predictions
+- [1:07:11](https://www.youtube.com/watch?v=6g4O5UOH304&t=4031s) Text Classification (part 1)
+- [1:28:37](https://www.youtube.com/watch?v=6g4O5UOH304&t=5317s) What is an Embedding Layer? Text Classification (part 2)
+- [1:42:30](https://www.youtube.com/watch?v=6g4O5UOH304&t=6150s) How to train the model - Text Classification (part 3)
+- [1:52:35](https://www.youtube.com/watch?v=6g4O5UOH304&t=6755s) How to saving & loading models - Text Classification (part 4)
+- [2:07:09](https://www.youtube.com/watch?v=6g4O5UOH304&t=7629s) How to install TensorFlow GPU on Linux
 
-![](https://user-images.githubusercontent.com/97671741/164194647-7821f3e5-cc43-410a-8c07-e725556b4d6f.PNG)
+
+
 _____
 
 ## API
