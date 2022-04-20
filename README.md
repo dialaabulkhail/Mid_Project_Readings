@@ -52,6 +52,12 @@ tensorflow was mainly used for detecting ard recognising (like traffic lights/pe
 [Quick start Keras](https://www.tensorflow.org/tutorials/keras/classification)
 
 [Quick start](https://www.tensorflow.org/tutorials/quickstart/beginner)
+
+Examples on tensorflow -> 
+
+![Capture](https://user-images.githubusercontent.com/97671741/164194795-a7ffa697-ef0a-4b09-b1e8-428e3c277092.PNG)
+
+![](https://user-images.githubusercontent.com/97671741/164194647-7821f3e5-cc43-410a-8c07-e725556b4d6f.PNG)
 _____
 
 ## API
@@ -88,6 +94,8 @@ Processes in SimPy are defined by Python generator functions and may, for exampl
 [SimPy](https://simpy.readthedocs.io/en/latest/)
 
 [Tutorial](https://realpython.com/simpy-simulating-with-python/)
+
+[Reference](https://www.youtube.com/watch?v=6g4O5UOH304&ab_channel=freeCodeCamp.org)
 _____
 ## Time - timeit()
 in general timeit is a method in python library used to measure the execution time taken by the given code snippet. The Python library runs the code statement 1 million times and provides the minimum time taken from the given set of code snippets.
@@ -135,5 +143,6 @@ we are going to deal with a T-section street road with 5 traffic lights, input m
 
 [Example](https://www.youtube.com/watch?v=CQu4wFLC79U&t=177s&ab_channel=MichaelRechtin)
 [Traffic detection using tensorflow](https://builders.intel.com/docs/aibuilders/traffic-light-detection-using-the-tensorflow-object-detection-api.pdf)
+
 
 
