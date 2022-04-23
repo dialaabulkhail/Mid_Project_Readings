@@ -152,5 +152,9 @@ we are going to deal with a T-section street road with 5 traffic lights, input m
 [Example](https://www.youtube.com/watch?v=CQu4wFLC79U&t=177s&ab_channel=MichaelRechtin)
 [Traffic detection using tensorflow](https://builders.intel.com/docs/aibuilders/traffic-light-detection-using-the-tensorflow-object-detection-api.pdf)
 
+_____
+## Linear regression
+Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. Different regression models differ based on – the kind of relationship between dependent and independent variables, they are considering and the number of independent variables being used.
 
+[Linear regression](https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/)
 
