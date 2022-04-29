@@ -1,4 +1,7 @@
-18/19 - April - 2022
+Documentation of midterm Project:
+
+[Hashnode](https://dialabk.hashnode.dev/ai-traffic-system-with-python#cl2i6zfle01xfbsnvdx769fq9)
+
 ----
 ## Artifical intillegence
 To make computers think like humans.
